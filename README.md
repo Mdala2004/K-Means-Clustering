@@ -6,11 +6,11 @@ an associated energy level, simulating real-world systems such as wireless senso
 IoT environments.
 
 ## Objectives
-• Apply K-Means clustering using a predefined function (KMeans)
-• Analyse a dense network topology (600+ nodes)
-• Interpret clustering results using data-driven reasoning
-• Visualize data using 2D network graphs and 3D surface plots
-• Extract insights from node energy distributions
+- Apply K-Means clustering using a predefined function (KMeans)
+- Analyse a dense network topology (600+ nodes)
+- Interpret clustering results using data-driven reasoning
+- Visualize data using 2D network graphs and 3D surface plots
+- Extract insights from node energy distributions
 
 ## Technologies Used
 ### Language
